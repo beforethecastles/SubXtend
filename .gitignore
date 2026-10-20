@@ -1,0 +1,4 @@
+build/
+build.log
+JUCE/
+.DS_Store
